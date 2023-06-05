@@ -109,9 +109,9 @@ a:focus {
 /*button rules for the mailto button*/
 .button.contact {
   background-color: transparent;
-  color: #ff7f50;
+  color: rgb(27, 143, 132);
   text-transform: uppercase;
-  border: 2px solid #ff7f50;
+  border: 2px solid rgb(27, 143, 132);
   transition: 0.8s opacity;
 }
 
@@ -119,13 +119,13 @@ a:focus {
 
 .button.contact:hover {
   opacity: 0.8;
-  background-color: #ff7f50;
+  background-color: rgb(27, 143, 132);
   color: #ffffff;
 }
 
 .button.contact:active {
   opacity: 0.8;
-  background-color: #ff7f50;
+  background-color: rgb(27, 143, 132);
   color: #ffffff;
 }
 
